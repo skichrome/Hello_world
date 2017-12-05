@@ -2,7 +2,7 @@ Liste des composants pour mon projet de domotique autour du Raspberry Pi
 et de l'Arduino
 
 * 1 émetteur recepteur 433Mhz
-*  3 prises murales télécommandées 433Mhz
+* 3 prises murales télécommandées 433Mhz
 * 1 lampe culot E27 433Mhz
 * 1 Raspberry Pi 3 B
 * 1 Arduino
