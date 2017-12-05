@@ -6,6 +6,6 @@ I like programming and I learn to develop on Android platform. I also like conne
 
 I use a 3d printer for most of my projects and in a few days I will add an Arduino with a relay to command my 3d printer, the Arduino will be connected to a Raspberry and I will be able to command my 3d printer with a website on my local network.
 
-In the two files in this repositorie you can see a list of projects that 
+In the two files in this repository you can see a list of projects that 
 I will realise in a few time and a list of components that I will use 
 (in French).
