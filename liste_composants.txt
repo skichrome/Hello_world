@@ -6,3 +6,9 @@ et de l'Arduino
 * 1 lampe culot E27 433Mhz
 * 1 Raspberry Pi 3 B
 * 1 Arduino
+
+Attention tous les composants qui interragissent avec du 230V doivent 
+porter la mention CE pour limiter les risques d'incendie (voir avant 
+l'achat) !
+C'est aussi une question de protection de l'utilisateur (pensez au chien 
+qui ne sait pas qu'il ne doit pas toucher les fils !).
